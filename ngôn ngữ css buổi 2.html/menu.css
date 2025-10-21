@@ -1,0 +1,28 @@
+.menu-doc {
+    width: 220px;
+    color: gray;
+    border: 10px solid gray;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    margin: 50px auto;
+    border-radius: 20px;
+}
+
+.menu-doc ul {
+    list-style: none; 
+    margin: 0;
+    padding: 0;
+    background-color: rgb(60, 82, 102);
+    border-radius: 10px;
+}
+
+.menu-doc li a {
+    display: block;
+    padding: 12px 18px;
+    color: white;
+    text-decoration: none;
+    font-family: Arial, sans-serif;
+}
+.menu-doc li a:hover {
+    background-color: rgb(74, 211, 74);
+    color: rgb(0, 0, 0); 
+}

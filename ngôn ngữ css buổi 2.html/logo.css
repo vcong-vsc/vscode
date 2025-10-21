@@ -1,0 +1,47 @@
+header {
+    text-align: center;
+    background-color: #f3f3d9;
+    padding: 10px 0;
+    border-bottom: 2px solid #ccc;
+}
+
+header img {
+    width: 100px;
+    display: block;
+    margin: 0px auto;
+}
+
+header h2 {
+    color: green;
+    margin: 10px 0;
+}
+
+nav ul {
+    list-style: none;
+    text-align: center;
+    padding: 0;
+    margin: 10px 0;
+}
+
+nav ul li {
+    display: inline-block;
+    margin: 0 10px;
+}
+
+nav ul li a {
+    color: rgb(84, 230, 84);    
+    text-decoration: none; 
+    font-weight: bold;
+}
+
+
+nav ul li a:hover {
+    color: rgb(252, 24, 62);
+    text-decoration: underline;
+
+}
+
+nav ul li a:active {
+    color: red;
+    text-decoration: underline;
+}
