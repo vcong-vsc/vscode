@@ -1,0 +1,8 @@
+img {
+    width: 200px;           
+    height: 300px;           
+    border: 10px solid green;
+    margin: 50px;           
+    padding: 10px;          
+    border-radius: 10px;    
+}

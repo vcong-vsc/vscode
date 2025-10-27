@@ -1,0 +1,27 @@
+.sanpham {
+    width: 250px;                
+    color: #878f8f;              
+    border: 2px solid #e0cece;   
+    border-radius: 15px;         
+    text-align: center;          
+    padding: 15px;               
+    margin: 20px auto;           
+}
+.sanpham img {
+    width: 200px;                
+    height: auto;                
+    border-radius: 10px;         
+}
+
+.sanpham .ten {
+    font-size: 18px;             
+    font-weight: bold;           
+    margin: 10px 0 5px 0;        
+    color: #333;                
+}
+
+.sanpham .gia {
+    font-size: 16px;             
+    color: red;                  
+    font-weight: bold;           
+}
